@@ -52,7 +52,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://eni-learning.com/monitoraggio/">
+    <link rel="canonical" href="https://eni-learning.com/progetto/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -66,10 +66,10 @@
   },
   "sku": "Slot Gacor Maxwin",
   "mpn": "77GCR-001",
-  "url": "https://eni-learning.com/monitoraggio/",
+  "url": "https://eni-learning.com/progetto/",
   "offers": {
     "@type": "Offer",
-    "url": "https://eni-learning.com/monitoraggio/",
+    "url": "https://eni-learning.com/progetto/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -123,31 +123,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "BATMANTOTO",
-      "item": "https://eni-learning.com/monitoraggio/"
+      "item": "https://eni-learning.com/progetto/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot Online",
-      "item": "https://eni-learning.com/monitoraggio/"
+      "item": "https://eni-learning.com/progetto/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Slot Gacor",
-      "item": "https://eni-learning.com/monitoraggio/"
+      "item": "https://eni-learning.com/progetto/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS SLOT GACOR",
-      "item": "https://eni-learning.com/monitoraggio/"
+      "item": "https://eni-learning.com/progetto/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Slot Gacor Maxwin",
-      "item": "https://eni-learning.com/monitoraggio/"
+      "item": "https://eni-learning.com/progetto/"
     }
   ]
 }
@@ -158,7 +158,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Slot Gacor Maxwin",
-  "url": "https://eni-learning.com/monitoraggio/",
+  "url": "https://eni-learning.com/progetto/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWGwx8D0VQBZiy3MbPSPz3WBO0lVyLfJb8qVxTxKuDbBM8lJM9DQTrz9-o_0izQdfGFfb-zQc0jz8a2Q-uwGJSDySlS3fHZ1RsbLksZVVjt1xoZVqxPUOtrSZxDwgFmTYWOStG0PtzPOYUPoGCQZbwq8HyXzYzqmpooi9YyqzJk5eEsq0EyQbMC6RcDX9/s300/daftarr.webp",
   "sameAs": [
     "https://www.facebook.com/TOGEL-ONLINE",
@@ -186,7 +186,7 @@
     <meta property="og:title" content="BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia">
     <meta property="og:description" content="BATMANTOTO Adalah Bandar Sloto 4D resmi dan situs togel online terlengkap di Indonesia 2026. Nikmati semua pasaran toto resmi dunia dengan jaminan bayaran lunas dan sistem keamanan terbaik. Daftar sekarang!"><meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioo5sYGZ9rPOseYgHGtMma656LTV4w6x-gNqnTTPoSHgOmn89V1G2F0ku_8yF9u47DPCw6UpPre_3HUtX6ZSCdmGG1mqOq9VvKs0PTPyPND2kAPshyphenhyphen-fA1WERz54v-71vXHQzzMQYAFwQidj5ALhOljNquaJTjngfcLZyRMFU711ILRv5PTkc-8sWLIeW/s1024/aweawe43.webp" />
     <meta property="og:image:alt" content="BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia" />
-    <meta property="og:url" content="https://eni-learning.com/monitoraggio/">
+    <meta property="og:url" content="https://eni-learning.com/progetto/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -196,7 +196,7 @@
     <meta name="twitter:image:alt" content="BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia" />
     <meta property="og:title" content="BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://eni-learning.com/monitoraggio/">
+    <meta property="og:url" content="https://eni-learning.com/progetto/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhioo5sYGZ9rPOseYgHGtMma656LTV4w6x-gNqnTTPoSHgOmn89V1G2F0ku_8yF9u47DPCw6UpPre_3HUtX6ZSCdmGG1mqOq9VvKs0PTPyPND2kAPshyphenhyphen-fA1WERz54v-71vXHQzzMQYAFwQidj5ALhOljNquaJTjngfcLZyRMFU711ILRv5PTkc-8sWLIeW/s1024/aweawe43.webp" />
     <meta property="og:image:alt" content="BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia" />
     <meta property="og:description" content="BATMANTOTO Adalah Bandar Sloto 4D resmi dan situs togel online terlengkap di Indonesia 2026. Nikmati semua pasaran toto resmi dunia dengan jaminan bayaran lunas dan sistem keamanan terbaik. Daftar sekarang!">
@@ -857,11 +857,11 @@
   })();
 </script>
 <div style="display:none" data-nosnippet="true">
-<a href="https://eni-learning.com/monitoraggio/">BATMANTOTO</a>
-<a href="https://eni-learning.com/monitoraggio/">Slot Online</a>
-<a href="https://eni-learning.com/monitoraggio/">Slot Gacor</a>
-<a href="https://eni-learning.com/monitoraggio/">SITUS SLOT GACOR</a>
-<a href="https://eni-learning.com/monitoraggio/">Slot Gacor Maxwin</a>
+<a href="https://eni-learning.com/progetto/">BATMANTOTO</a>
+<a href="https://eni-learning.com/progetto/">Slot Online</a>
+<a href="https://eni-learning.com/progetto/">Slot Gacor</a>
+<a href="https://eni-learning.com/progetto/">SITUS SLOT GACOR</a>
+<a href="https://eni-learning.com/progetto/">Slot Gacor Maxwin</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -948,7 +948,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://eni-learning.com/monitoraggio/">EnvatoMarket</a>
+                    <a href="https://eni-learning.com/progetto/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -956,40 +956,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://eni-learning.com/monitoraggio/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://eni-learning.com/progetto/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://eni-learning.com/monitoraggio/">
+                    <a class="off-canvas-left__site" href="https://eni-learning.com/progetto/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -998,7 +998,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://eni-learning.com/monitoraggio/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://eni-learning.com/progetto/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1013,393 +1013,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://eni-learning.com/progetto/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://eni-learning.com/progetto/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Real
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://eni-learning.com/progetto/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/progetto/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://eni-learning.com/progetto/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://eni-learning.com/progetto/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/progetto/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://eni-learning.com/progetto/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://eni-learning.com/progetto/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://eni-learning.com/progetto/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://eni-learning.com/progetto/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link--empty" href="https://eni-learning.com/progetto/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://eni-learning.com/monitoraggio/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://eni-learning.com/progetto/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Free
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/monitoraggio/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://eni-learning.com/progetto/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://eni-learning.com/monitoraggio/">Unlimited
+                                    href="https://eni-learning.com/progetto/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1409,7 +1409,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://eni-learning.com/monitoraggio/">Unlimited
+                            href="https://eni-learning.com/progetto/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1421,7 +1421,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://eni-learning.com/monitoraggio/">
+                <a class="off-canvas-right__link--cart" href="https://eni-learning.com/progetto/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1446,7 +1446,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://eni-learning.com/monitoraggio/">
+                                    <a class="btn btn--square" href="https://eni-learning.com/progetto/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1463,21 +1463,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://eni-learning.com/monitoraggio/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://eni-learning.com/progetto/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://eni-learning.com/monitoraggio/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://eni-learning.com/progetto/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://eni-learning.com/monitoraggio/">
+                                    <a href="https://eni-learning.com/progetto/">
                                         <img alt="Logo Baru" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWGwx8D0VQBZiy3MbPSPz3WBO0lVyLfJb8qVxTxKuDbBM8lJM9DQTrz9-o_0izQdfGFfb-zQc0jz8a2Q-uwGJSDySlS3fHZ1RsbLksZVVjt1xoZVqxPUOtrSZxDwgFmTYWOStG0PtzPOYUPoGCQZbwq8HyXzYzqmpooi9YyqzJk5eEsq0EyQbMC6RcDX9/s300/daftarr.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1492,19 +1492,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://eni-learning.com/monitoraggio/">
+                                    <a href="https://eni-learning.com/progetto/">
                                         <img height="100" alt="Envato Market" class="global-header__logo" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWGwx8D0VQBZiy3MbPSPz3WBO0lVyLfJb8qVxTxKuDbBM8lJM9DQTrz9-o_0izQdfGFfb-zQc0jz8a2Q-uwGJSDySlS3fHZ1RsbLksZVVjt1xoZVqxPUOtrSZxDwgFmTYWOStG0PtzPOYUPoGCQZbwq8HyXzYzqmpooi9YyqzJk5eEsq0EyQbMC6RcDX9/s300/daftarr.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://eni-learning.com/monitoraggio/">
+                                                <a class="global-header-menu__link" href="https://eni-learning.com/progetto/">
                                                     <span class="global-header-menu__link-text">
                                                         BATMANTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://eni-learning.com/monitoraggio/">
+                                                <a class="global-header-menu__link" href="https://eni-learning.com/progetto/">
                                                     <span class="global-header-menu__link-text">
                                                         SITUS SLOT GACOR
                                                     </span>
@@ -1526,7 +1526,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://eni-learning.com/monitoraggio/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://eni-learning.com/progetto/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1629,13 +1629,13 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://eni-learning.com/monitoraggio/">BATMANTOTO</a>
+                                <a class="js-breadcrumb-category" href="https://eni-learning.com/progetto/">BATMANTOTO</a>
 
 
-                                <a href="https://eni-learning.com/monitoraggio/" class="js-breadcrumb-category">Slot Online</a>
-                                <a class="js-breadcrumb-category" href="https://eni-learning.com/monitoraggio/">Slot Gacor</a>
-                                <a class="js-breadcrumb-category" href="https://eni-learning.com/monitoraggio/">SITUS SLOT GACOR</a>
-                                <a class="js-breadcrumb-category" href="https://eni-learning.com/monitoraggio/">Slot Gacor Maxwin</a>
+                                <a href="https://eni-learning.com/progetto/" class="js-breadcrumb-category">Slot Online</a>
+                                <a class="js-breadcrumb-category" href="https://eni-learning.com/progetto/">Slot Gacor</a>
+                                <a class="js-breadcrumb-category" href="https://eni-learning.com/progetto/">SITUS SLOT GACOR</a>
+                                <a class="js-breadcrumb-category" href="https://eni-learning.com/progetto/">Slot Gacor Maxwin</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1663,7 +1663,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://eni-learning.com/monitoraggio/">BATMANTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://eni-learning.com/progetto/">BATMANTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1697,7 +1697,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://eni-learning.com/monitoraggio/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://eni-learning.com/progetto/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -1955,13 +1955,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://eni-learning.com/monitoraggio/"><span
+                                                        href="https://eni-learning.com/progetto/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://eni-learning.com/monitoraggio/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://eni-learning.com/progetto/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2038,7 +2038,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://eni-learning.com/monitoraggio/">
+                                <a class="item-description-toggle__link" href="https://eni-learning.com/progetto/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2077,7 +2077,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://eni-learning.com/monitoraggio/" accept-charset="UTF-8" method="post">
+                                    action="https://eni-learning.com/progetto/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2108,7 +2108,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://eni-learning.com/monitoraggio//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://eni-learning.com/progetto//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -2365,7 +2365,7 @@ shortcut.add("Ctrl+U", function() {
 <h1 class="cok-faq-title2" style="text-align: center;color: #ffd900;">BATMANTOTO - Bandar Sloto 4d Resmi & Togel Online Terlengkap Di Indonesia</h1>
 </div>
         <p>
-         <a href="https://eni-learning.com/monitoraggio/" style="color: red;">BATMANTOTO</a> merupakan situs slot gacor populer dengan sistem permainan modern yang dirancang untuk pengalaman bermain lebih cepat, stabil, dan inovatif. Didukung teknologi terbaru serta berbagai fitur unggulan, BATMANTOTO menghadirkan platform hiburan digital yang semakin diminati para pecinta permainan online hari ini. 
+         <a href="https://eni-learning.com/progetto/" style="color: red;">BATMANTOTO</a> merupakan situs slot gacor populer dengan sistem permainan modern yang dirancang untuk pengalaman bermain lebih cepat, stabil, dan inovatif. Didukung teknologi terbaru serta berbagai fitur unggulan, BATMANTOTO menghadirkan platform hiburan digital yang semakin diminati para pecinta permainan online hari ini. 
          </p>
         <p>
           Berbagai informasi yang disediakan BATMANTOTO mencakup panduan bermain, ulasan pasaran, hingga insight yang bisa dijadikan referensi oleh pemain. Penyajian kontennya dibuat sederhana dan mudah dipahami, sehingga baik pemula maupun pemain berpengalaman dapat menggunakannya sebagai tambahan wawasan sebelum bermain.
